@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+DB_API_KEY = '044310056e5636e60cc930104b02a4b2' 
+DB_API_SECRET = '7fca88ac9f5860dc'
+
